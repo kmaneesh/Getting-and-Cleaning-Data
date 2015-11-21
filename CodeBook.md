@@ -208,197 +208,327 @@ tBodyAccJerk-mean()-Y
 
         normalized and bounded within [-1,1]
 
+
 tBodyAccJerk-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerk-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerk-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerk-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyro-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerk-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAccMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAccMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerkMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerkMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerkMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 tBodyGyroJerkMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-meanFreq()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-meanFreq()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAcc-meanFreq()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-meanFreq()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-meanFreq()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccJerk-meanFreq()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-meanFreq()-X 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-meanFreq()-Y 
+
         normalized and bounded within [-1,1]
+
 
 fBodyGyro-meanFreq()-Z 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyAccMag-meanFreq() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyAccJerkMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyAccJerkMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyAccJerkMag-meanFreq() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyGyroMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyGyroMag-std() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyGyroMag-meanFreq() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyGyroJerkMag-mean() 
+
         normalized and bounded within [-1,1]
+
 
 fBodyBodyGyroJerkMag-std() 
+
         normalized and bounded within [-1,1]
 
+
 fBodyBodyGyroJerkMag-meanFreq()
+
         normalized and bounded within [-1,1]
