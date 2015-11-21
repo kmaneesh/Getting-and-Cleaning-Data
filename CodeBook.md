@@ -133,52 +133,79 @@ ACTIVITY
 
         6 LAYING
 
+
+FEATURES
+    
+    Features
+
+
 tBodyAcc-mean()-X 
 
         normalized and bounded within [-1,1]
+
 
 tBodyAcc-mean()-Y 
 
         normalized and bounded within [-1,1]
 
+
 tBodyAcc-mean()-Z 
 
         normalized and bounded within [-1,1]
+
 
 tBodyAcc-std()-X 
 
         normalized and bounded within [-1,1]
 
+
 tBodyAcc-std()-Y 
 
         normalized and bounded within [-1,1]
+
 
 tBodyAcc-std()-Z 
 
         normalized and bounded within [-1,1]
 
+
 tGravityAcc-mean()-X 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAcc-mean()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAcc-mean()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAcc-std()-X 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAcc-std()-Y 
+
         normalized and bounded within [-1,1]
+
 
 tGravityAcc-std()-Z 
+
         normalized and bounded within [-1,1]
+
 
 tBodyAccJerk-mean()-X 
+
         normalized and bounded within [-1,1]
 
+
 tBodyAccJerk-mean()-Y 
+
         normalized and bounded within [-1,1]
 
 tBodyAccJerk-mean()-Z 
