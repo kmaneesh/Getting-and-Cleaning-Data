@@ -25,8 +25,8 @@ Download Data
 -------------
 > The run_analysis code will read the 'Human Activity Recognition Using Smartphones Data Set' avaliable at https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip and saves as data.zip in current directory.
 ```r
-dataUrl = "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
-dataName = "data.zip"
+dataUrl <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip"
+dataName <- "data.zip"
 if(!file.exists(dataName)){
   download.file(dataUrl, dataName, method="curl")
 }
@@ -36,7 +36,7 @@ Unzip Data
 ----------
 > The run_analysis code will zips the data.zip file in "UCI HAR Dataset" directory, if not unzipped earlier.
 ```r
-datasetPath = "UCI HAR Dataset"
+datasetPath <- "UCI HAR Dataset"
 if(!file.exists(datasetPath)){
   unzip(dataName)
 }
@@ -57,7 +57,7 @@ Read features dataset, Extract desired features from dataset, Attach column name
 train_features <- read.table(paste(datasetPath, '/', 'train', '/', 'X_train.txt', sep=''))
 desired_train_features <- train_features[,desired_features]
 test_features <- read.table(paste(datasetPath, '/', 'test', '/', 'X_test.txt', sep=''))
-desired_test_features = test_features[,desired_features]
+desired_test_features <- test_features[,desired_features]
 total_features <- rbind(desired_train_features, desired_test_features)
 colnames(total_features) <- feature_names[desired_features, 2]
 ```
